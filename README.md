@@ -9,5 +9,10 @@ Rofi
 Picom  
 
 
-##Gallery
+## Gallery
 
+![Desktop](/assets/desktop.png)  
+
+![Terminal](/assets/terminal.png)
+
+![Code](/assets/code.png)
